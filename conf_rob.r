@@ -1,4 +1,8 @@
 # Author: Łukasz Wilk
+# Available as Freeware
+# All rights reserved
+# if you wish to use this code contact first:  
+#    lukasz.s.wilk a#t gmail.com 
 
 gir <- function( 
 	n = 25, 
@@ -140,3 +144,5 @@ gir <- function(
 #color vektor col(for plot)
 }
 gir()
+
+# All rights reserved
